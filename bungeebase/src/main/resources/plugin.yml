@@ -1,0 +1,20 @@
+name: bungeebase
+version: 1.3
+author: Rewex
+main: de.rewex.bungeebase.Bungeebase
+commands:
+  coins:
+  connect:
+  gamepass:
+  hub:
+  joinme:
+  ping:
+  tokens:
+  ban:
+  tempban:
+  unban:
+  kick:
+  mute:
+  unmute:
+  find:
+  wartung:

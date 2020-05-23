@@ -1,0 +1,5 @@
+name: chatmodule
+version: 1.3
+author: Rewex
+main: de.rewex.chatmodule.Chatmodule
+commands:
